@@ -30,9 +30,7 @@ const Contact = () => {
   const handleSubmit = (e) => {
     e.preventDefault();
     setLoading(true);
-    //template_zgsisdh
-    //service_39cze1j
-    //vzyeBVoSYVtSep-uL
+
     emailjs
       .send(
         import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,

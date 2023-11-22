@@ -200,7 +200,7 @@ const projects = [
       },
     ],
     image: pumalandingpage,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/deciever002/puma_landing_page",
   },
   {
     name: "Career Camp",
@@ -263,7 +263,7 @@ const projects = [
       },
     ],
     image: todolist,
-    source_code_link: "https://github.com/deciever002/SantaChatter",
+    source_code_link: "https://github.com/deciever002/TodoList",
   },
 ];
 
